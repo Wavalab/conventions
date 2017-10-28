@@ -7,3 +7,6 @@ game-objects -- folders = lower case dashed
 local SimpleShape = require("game-object.SimpleShape")
 local vectorUtils = require("utility.vectorUtils")
 local global = require("utility.global")
+
+-- keys
+params.name = "game_object"
